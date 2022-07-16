@@ -25,7 +25,7 @@ class ShoeCollectionViewCell: UICollectionViewCell {
     var shoeArray = [Shoe]()
     var brandIndexTracker = 0
     var indexPath = 0
-    var specificShoe = Shoe(brand: "erf", model: "sdf", price: "wdsfv", imageName: "sdf", isHearted: nil, counter: 0)
+    var specificShoe = Shoe(brand: "erf", model: "sd", price: "wdsfv", imageName: "sdf", isHearted: nil, counter: 0)
     var cartArray = [String]()
     
     
